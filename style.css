@@ -1,0 +1,67 @@
+body {
+    background: rgb(236, 121, 140);
+    text-align: center;
+    font: normal 16pt Arial;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: red;
+    padding: 15px;
+    word-spacing: 30px;
+}
+
+h4 {
+    color: blue;
+    padding: 15px;
+    word-spacing: 430px;
+}
+p#filhos {
+    word-spacing: 30px;
+}
+
+p#netos {
+    word-spacing: 160px;
+}
+
+section.m {
+    background: rgb(247, 127, 147);
+    box-shadow: 0 3px 10px;
+    width: 250px;
+    border-radius: 15px;
+    margin: auto;
+}
+
+section.f {
+    background-color: rgb(247, 127, 147);
+    box-shadow: 0 3px 10px;
+    width: 650px;
+    margin: auto;
+    border-radius: 15px;
+}
+section.n {
+    background: rgb(247, 127, 147);
+    box-shadow: 0 3px 10px;
+    width: 650px;
+    margin: auto;
+    border-radius: 15px;
+    
+}
+
+.container img {
+    max-width: 150px;
+    max-height: 120px;
+    border-radius: 15px;
+}
+
+.cont {
+    word-spacing: 420px;
+}
+.cont img {
+    max-width: 150px;
+    max-height: 120px;
+    border-radius: 15px;
+}
